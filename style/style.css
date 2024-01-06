@@ -132,3 +132,18 @@ main{
     padding: 30px 150px;
 
 }
+.skill-container{
+    display: flex;
+    
+    
+}
+
+.skill-description{
+
+}
+
+.skill{
+    padding: 30;
+    gap: 24px;
+    
+}
