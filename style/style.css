@@ -160,3 +160,7 @@ main section {
     font-weight: 700;
 
 }
+.resume-continer{
+    display: flex;
+    gap: 50px;
+}
