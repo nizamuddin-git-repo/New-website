@@ -190,3 +190,7 @@ main section {
     text-align: center;
     margin-top: 69px;
 }
+
+.footer{
+    display: flex;
+}
